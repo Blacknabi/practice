@@ -1,0 +1,5 @@
+s=input("antre chenn karakte ou a: ")
+print(s)
+b=list(reversed(s))
+strb="".join(b)
+print(strb.replace(" ",""))
