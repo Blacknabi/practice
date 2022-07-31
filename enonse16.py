@@ -12,5 +12,4 @@ def mo_kache():
             b = chenn.index(i[-1]) - int(i[1:-1])
         
         print(chenn[b],end="")
-        
 mo_kache()

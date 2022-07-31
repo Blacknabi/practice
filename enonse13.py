@@ -2,6 +2,7 @@ i=0
 n=4
 nonb=[0,1,2,3,4]
 liste=[]
+
 for i in range(n):
     a=nonb[::-1]
     print(a)

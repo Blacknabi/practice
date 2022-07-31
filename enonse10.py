@@ -1,6 +1,7 @@
 token="web-insecure;34829sjdfnsj32984madsdkj"
 print(token)
 print()
+
 tok=list(token)
 for i in tok:
     if ";" in i:

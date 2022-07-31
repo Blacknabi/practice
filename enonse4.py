@@ -4,10 +4,9 @@ while not a.isdigit() :
 b=input("entrer la valeur de b: ")
 while not b.isdigit() :
     b=input("entrer la valeur de b: ")
-
+    
 a=int(a)
 b=int(b)
-
 liste=[]
 liste2=[]
 liste3=[]

@@ -16,6 +16,7 @@ for j in mo2:
         b=(len(mo2)/2)
     else:
         b=(len(mo2)/2) 
+        
 b=int(b)
 print(f"mo ki nan mitan endpass se {mo2[b]}")
 
